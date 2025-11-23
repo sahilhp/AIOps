@@ -1,0 +1,1 @@
+[🚀 View Build a Character AI Chatbot Using OpenAI API-checkpoint.ipynb notebook on nbviewer](https://nbviewer.org/github/sahilhp/AIOps/blob/main/AI%20Playground/Build%20a%20Character%20AI%20Chatbot%20Using%20OpenAI%20API-checkpoint.ipynb)
